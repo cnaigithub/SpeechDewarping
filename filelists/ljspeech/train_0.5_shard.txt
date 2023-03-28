@@ -1,0 +1,347 @@
+{Path_to_LJspeech_dataset}/LJ021-0165.wav|On the contrary,
+{Path_to_LJspeech_dataset}/LJ037-0076.wav|Two young women,
+{Path_to_LJspeech_dataset}/LJ006-0281.wav|in some yards
+{Path_to_LJspeech_dataset}/LJ011-0028.wav|In his defense
+{Path_to_LJspeech_dataset}/LJ012-0199.wav|After a little
+{Path_to_LJspeech_dataset}/LJ045-0047.wav|and I told him that
+{Path_to_LJspeech_dataset}/LJ049-0075.wav|Recommendations.
+{Path_to_LJspeech_dataset}/LJ030-0137.wav|The Assassination
+{Path_to_LJspeech_dataset}/LJ037-0003.wav|Eyewitnesses
+{Path_to_LJspeech_dataset}/LJ009-0074.wav|Let us pass on.
+{Path_to_LJspeech_dataset}/LJ020-0064.wav|Breakfast Biscuit.
+{Path_to_LJspeech_dataset}/LJ045-0149.wav|She said, quote,
+{Path_to_LJspeech_dataset}/LJ045-0177.wav|For the first time
+{Path_to_LJspeech_dataset}/LJ034-0144.wav|Prior to the lineup,
+{Path_to_LJspeech_dataset}/LJ033-0135.wav|Location of Bag
+{Path_to_LJspeech_dataset}/LJ037-0219.wav|Oswald's Jacket
+{Path_to_LJspeech_dataset}/LJ005-0121.wav|By degrees, however,
+{Path_to_LJspeech_dataset}/LJ029-0091.wav|The Motorcade Route.
+{Path_to_LJspeech_dataset}/LJ007-0228.wav|In their tenth report
+{Path_to_LJspeech_dataset}/LJ029-0107.wav|On November eighteen,
+{Path_to_LJspeech_dataset}/LJ039-0025.wav|After further questioning
+{Path_to_LJspeech_dataset}/LJ045-0058.wav|nineteen sixty-three.
+{Path_to_LJspeech_dataset}/LJ038-0079.wav|on November twenty-four.
+{Path_to_LJspeech_dataset}/LJ018-0363.wav|She was found guilty.
+{Path_to_LJspeech_dataset}/LJ049-0016.wav|The Presidential limousine.
+{Path_to_LJspeech_dataset}/LJ021-0172.wav|They point to England.
+{Path_to_LJspeech_dataset}/LJ023-0112.wav|We have, therefore,
+{Path_to_LJspeech_dataset}/LJ035-0007.wav|The encounter in the lunchroom.
+{Path_to_LJspeech_dataset}/LJ028-0062.wav|and drove them from Asia.
+{Path_to_LJspeech_dataset}/LJ044-0004.wav|Political Activities
+{Path_to_LJspeech_dataset}/LJ034-0202.wav|In his Commission testimony
+{Path_to_LJspeech_dataset}/LJ021-0186.wav|than in the United States?
+{Path_to_LJspeech_dataset}/LJ034-0039.wav|In Latona's opinion, quote,
+{Path_to_LJspeech_dataset}/LJ028-0515.wav|Such were the walls of Babylon,
+{Path_to_LJspeech_dataset}/LJ038-0255.wav|Firearms identification.
+{Path_to_LJspeech_dataset}/LJ014-0009.wav|This sight was his own handiwork,
+{Path_to_LJspeech_dataset}/LJ033-0112.wav|measured thirty-four point eight inches.
+{Path_to_LJspeech_dataset}/LJ049-0085.wav|the State of Texas had exclusive jurisdiction.
+{Path_to_LJspeech_dataset}/LJ028-0115.wav|I laid its foundation deep to the water level;
+{Path_to_LJspeech_dataset}/LJ011-0055.wav|Edmund Angelini, to take Fauntleroy's place.
+{Path_to_LJspeech_dataset}/LJ010-0165.wav|but he came as a lad to London, and took service as a pot-boy to a publican.
+{Path_to_LJspeech_dataset}/LJ036-0104.wav|Whaley picked Oswald.
+{Path_to_LJspeech_dataset}/LJ039-0231.wav|Having fired this slot
+{Path_to_LJspeech_dataset}/LJ046-0179.wav|being reviewed regularly.
+{Path_to_LJspeech_dataset}/LJ013-0082.wav|In eighteen forty-four
+{Path_to_LJspeech_dataset}/LJ014-0259.wav|Watts led two lives.
+{Path_to_LJspeech_dataset}/LJ019-0225.wav|In eighteen fifty-seven
+{Path_to_LJspeech_dataset}/LJ021-0077.wav|There is no magic formula,
+{Path_to_LJspeech_dataset}/LJ024-0019.wav|And there may be only nine.
+{Path_to_LJspeech_dataset}/LJ028-0322.wav|Thus did Zopyrus speak.
+{Path_to_LJspeech_dataset}/LJ049-0154.wav|In eighteen ninety-four,
+{Path_to_LJspeech_dataset}/LJ028-0109.wav|In one of them he says:
+{Path_to_LJspeech_dataset}/LJ035-0059.wav|Truly replied, "Yes."
+{Path_to_LJspeech_dataset}/LJ009-0057.wav|Already he is half dead.
+{Path_to_LJspeech_dataset}/LJ030-0023.wav|Arrival at Love Field
+{Path_to_LJspeech_dataset}/LJ030-0111.wav|The Drive through Dallas
+{Path_to_LJspeech_dataset}/LJ033-0091.wav|Frazier told the Commission, quote,
+{Path_to_LJspeech_dataset}/LJ013-0059.wav|There were two separate affairs.
+{Path_to_LJspeech_dataset}/LJ017-0273.wav|Lopez was more talkative.
+{Path_to_LJspeech_dataset}/LJ021-0186.wav|than in the United States?
+{Path_to_LJspeech_dataset}/LJ009-0054.wav|He is quite content to die;
+{Path_to_LJspeech_dataset}/LJ041-0186.wav|as some kind of tribunal,
+{Path_to_LJspeech_dataset}/LJ013-0231.wav|"Where is it?" asked the governor.
+{Path_to_LJspeech_dataset}/LJ016-0138.wav|at a distance from the prison.
+{Path_to_LJspeech_dataset}/LJ024-0068.wav|and one over seventy.
+{Path_to_LJspeech_dataset}/LJ034-0039.wav|In Latona's opinion, quote,
+{Path_to_LJspeech_dataset}/LJ039-0060.wav|The Nature of the Shots
+{Path_to_LJspeech_dataset}/LJ045-0195.wav|onto the Stemmons Freeway.
+{Path_to_LJspeech_dataset}/LJ018-0106.wav|He was a German named Kerp,
+{Path_to_LJspeech_dataset}/LJ018-0218.wav|In eighteen fifty-five
+{Path_to_LJspeech_dataset}/LJ018-0312.wav|A plot was soon discovered,
+{Path_to_LJspeech_dataset}/LJ043-0133.wav|Attack on General Walker
+{Path_to_LJspeech_dataset}/LJ048-0060.wav|required further attention.
+{Path_to_LJspeech_dataset}/LJ014-0102.wav|The stones were at once taken up;
+{Path_to_LJspeech_dataset}/LJ008-0127.wav|As we were crossing the press yard,
+{Path_to_LJspeech_dataset}/LJ011-0208.wav|On this Wakefield gave in.
+{Path_to_LJspeech_dataset}/LJ002-0234.wav|In the yard behind the prison
+{Path_to_LJspeech_dataset}/LJ015-0138.wav|His fault was generosity,
+{Path_to_LJspeech_dataset}/LJ028-0413.wav|In his quaint way he says:
+{Path_to_LJspeech_dataset}/LJ049-0180.wav|The Commission has the impression
+{Path_to_LJspeech_dataset}/LJ009-0086.wav|But why should I repeat the whole?
+{Path_to_LJspeech_dataset}/LJ039-0098.wav|Oswald's Marine Training
+{Path_to_LJspeech_dataset}/LJ045-0132.wav|to the time of the assassination.
+{Path_to_LJspeech_dataset}/LJ049-0004.wav|The motorcade in Dallas.
+{Path_to_LJspeech_dataset}/LJ008-0197.wav|of the Lamb's Coffee House;
+{Path_to_LJspeech_dataset}/LJ009-0073.wav|The forger has never moved.
+{Path_to_LJspeech_dataset}/LJ017-0072.wav|whose signature he counterfeited.
+{Path_to_LJspeech_dataset}/LJ029-0070.wav|is discussed in chapter eight.
+{Path_to_LJspeech_dataset}/LJ048-0058.wav|Agent Hosty testified
+{Path_to_LJspeech_dataset}/LJ014-0314.wav|Pries at length was discovered
+{Path_to_LJspeech_dataset}/LJ015-0293.wav|as coming from a Mr. Whitney.
+{Path_to_LJspeech_dataset}/LJ031-0192.wav|Return to Washington, D.C.
+{Path_to_LJspeech_dataset}/LJ033-0075.wav|The Long and Bulky Package
+{Path_to_LJspeech_dataset}/LJ035-0144.wav|Oswald's departure from building.
+{Path_to_LJspeech_dataset}/LJ039-0239.wav|would include the President's head.
+{Path_to_LJspeech_dataset}/LJ042-0014.wav|was his service in Japan.
+{Path_to_LJspeech_dataset}/LJ013-0031.wav|The crime soon became public.
+{Path_to_LJspeech_dataset}/LJ030-0035.wav|Organization of the Motorcade
+{Path_to_LJspeech_dataset}/LJ045-0147.wav|She asked Oswald, quote,
+{Path_to_LJspeech_dataset}/LJ018-0092.wav|in eighteen fifty-six.
+{Path_to_LJspeech_dataset}/LJ031-0171.wav|Removal of the President's Body
+{Path_to_LJspeech_dataset}/LJ011-0107.wav|On entering Newgate he said,
+{Path_to_LJspeech_dataset}/LJ014-0088.wav|This was on a Thursday evening.
+{Path_to_LJspeech_dataset}/LJ035-0164.wav|three minutes after the shooting.
+{Path_to_LJspeech_dataset}/LJ038-0113.wav|when they lived on Neely Street.
+{Path_to_LJspeech_dataset}/LJ048-0154.wav|as discussed in chapter three.
+{Path_to_LJspeech_dataset}/LJ001-0002.wav|in being comparatively modern.
+{Path_to_LJspeech_dataset}/LJ010-0107.wav|and a military sash.
+{Path_to_LJspeech_dataset}/LJ028-0275.wav|At last, in the twentieth month,
+{Path_to_LJspeech_dataset}/LJ028-0515.wav|Such were the walls of Babylon,
+{Path_to_LJspeech_dataset}/LJ048-0029.wav|As reflected in this testimony,
+{Path_to_LJspeech_dataset}/LJ015-0010.wav|Cole now suspended payment.
+{Path_to_LJspeech_dataset}/LJ038-0098.wav|Denial of Rifle Ownership
+{Path_to_LJspeech_dataset}/LJ019-0253.wav|Even where cells had been built
+{Path_to_LJspeech_dataset}/LJ037-0257.wav|Scoggins thought it was lighter.
+{Path_to_LJspeech_dataset}/LJ043-0041.wav|Consistent with this attitude
+{Path_to_LJspeech_dataset}/LJ047-0087.wav|According to the Bureau, quote,
+{Path_to_LJspeech_dataset}/LJ050-0030.wav|The Commission also recommends
+{Path_to_LJspeech_dataset}/LJ037-0232.wav|As has been discussed previously,
+{Path_to_LJspeech_dataset}/LJ009-0243.wav|Other cases might be quoted,
+{Path_to_LJspeech_dataset}/LJ014-0035.wav|in a lonely part of Hampstead.
+{Path_to_LJspeech_dataset}/LJ023-0063.wav|But the framers went further.
+{Path_to_LJspeech_dataset}/LJ041-0026.wav|from which Oswald appeared to suffer.
+{Path_to_LJspeech_dataset}/LJ001-0078.wav|to improve the letter in form.
+{Path_to_LJspeech_dataset}/LJ005-0210.wav|At Walsall, in Staffordshire,
+{Path_to_LJspeech_dataset}/LJ014-0194.wav|The policemen were now in possession;
+{Path_to_LJspeech_dataset}/LJ025-0077.wav|Their food is provided for them,
+{Path_to_LJspeech_dataset}/LJ044-0069.wav|New Orleans branch, end quote.
+{Path_to_LJspeech_dataset}/LJ048-0272.wav|Chief Rowley testified
+{Path_to_LJspeech_dataset}/LJ016-0007.wav|There were others less successful.
+{Path_to_LJspeech_dataset}/LJ030-0067.wav|on his right sat Kellerman.
+{Path_to_LJspeech_dataset}/LJ047-0101.wav|Quigley testified, quote,
+{Path_to_LJspeech_dataset}/LJ049-0068.wav|A doctor is in the motorcade.
+{Path_to_LJspeech_dataset}/LJ050-0075.wav|The Commission shares this concern.
+{Path_to_LJspeech_dataset}/LJ050-0146.wav|Automatic data processing
+{Path_to_LJspeech_dataset}/LJ022-0116.wav|generated by this depression
+{Path_to_LJspeech_dataset}/LJ022-0179.wav|speaking through their government.
+{Path_to_LJspeech_dataset}/LJ025-0012.wav|extracts from which follow.
+{Path_to_LJspeech_dataset}/LJ047-0022.wav|provided by other agencies.
+{Path_to_LJspeech_dataset}/LJ027-0051.wav|It means blood relationship.
+{Path_to_LJspeech_dataset}/LJ033-0017.wav|who also worked at the Depository.
+{Path_to_LJspeech_dataset}/LJ043-0007.wav|Somewhat of a nonconformist,
+{Path_to_LJspeech_dataset}/LJ050-0101.wav|Leon F. Czolgosz,
+{Path_to_LJspeech_dataset}/LJ047-0056.wav|From August nineteen sixty-two
+{Path_to_LJspeech_dataset}/LJ002-0012.wav|After that they fell as steadily,
+{Path_to_LJspeech_dataset}/LJ028-0403.wav|The walls of the houses are built of them.
+{Path_to_LJspeech_dataset}/LJ038-0255.wav|Firearms identification.
+{Path_to_LJspeech_dataset}/LJ048-0026.wav|He gave evidence of settling down.
+{Path_to_LJspeech_dataset}/LJ017-0225.wav|The latter had the watch on deck.
+{Path_to_LJspeech_dataset}/LJ014-0231.wav|Emmanuel Barthelemy again,
+{Path_to_LJspeech_dataset}/LJ014-0250.wav|after they had been cashed by the bank.
+{Path_to_LJspeech_dataset}/LJ016-0174.wav|Having mentioned Calcraft's name,
+{Path_to_LJspeech_dataset}/LJ028-0361.wav|Yet Babylon continued to live,
+{Path_to_LJspeech_dataset}/LJ031-0184.wav|Swearing in of the New President
+{Path_to_LJspeech_dataset}/LJ039-0005.wav|Richard M. Nixon Incident
+{Path_to_LJspeech_dataset}/LJ041-0057.wav|His study of Communist literature,
+{Path_to_LJspeech_dataset}/LJ046-0050.wav|administrative, political.
+{Path_to_LJspeech_dataset}/LJ021-0199.wav|In our efforts for recovery
+{Path_to_LJspeech_dataset}/LJ030-0103.wav|Police car and motorcycles.
+{Path_to_LJspeech_dataset}/LJ045-0056.wav|and also about Mrs. Paine.
+{Path_to_LJspeech_dataset}/LJ050-0197.wav|According to Secretary Dillon,
+{Path_to_LJspeech_dataset}/LJ020-0067.wav|Five tablespoonfuls of yeast.
+{Path_to_LJspeech_dataset}/LJ023-0031.wav|It was almost too late.
+{Path_to_LJspeech_dataset}/LJ031-0027.wav|Upon arriving at Parkland Hospital,
+{Path_to_LJspeech_dataset}/LJ046-0153.wav|If the material was evaluated
+{Path_to_LJspeech_dataset}/LJ050-0092.wav|Chief Rowley believed that they would,
+{Path_to_LJspeech_dataset}/LJ007-0081.wav|whose proper place was the asylum.
+{Path_to_LJspeech_dataset}/LJ016-0197.wav|After that he worked alone.
+{Path_to_LJspeech_dataset}/LJ037-0068.wav|taken at the time of his arrest.
+{Path_to_LJspeech_dataset}/LJ044-0194.wav|Oswald's attempt to go to Cuba
+{Path_to_LJspeech_dataset}/LJ026-0002.wav|Life Processes. Part One.
+{Path_to_LJspeech_dataset}/LJ009-0303.wav|Then came the cost of the gallows,
+{Path_to_LJspeech_dataset}/LJ020-0072.wav|Yolk of one egg beaten light.
+{Path_to_LJspeech_dataset}/LJ024-0116.wav|When the time comes for action,
+{Path_to_LJspeech_dataset}/LJ029-0201.wav|Meanwhile, on November seventeen
+{Path_to_LJspeech_dataset}/LJ031-0024.wav|Gene C. Akin;
+{Path_to_LJspeech_dataset}/LJ037-0082.wav|On the evening of November twenty-two,
+{Path_to_LJspeech_dataset}/LJ039-0129.wav|firing it, with ten rounds.
+{Path_to_LJspeech_dataset}/LJ043-0064.wav|which were largely of his own making.
+{Path_to_LJspeech_dataset}/LJ010-0250.wav|of the criminal intent to kill.
+{Path_to_LJspeech_dataset}/LJ014-0330.wav|He had several narrow escapes.
+{Path_to_LJspeech_dataset}/LJ039-0054.wav|Oswald's Rifle Capability
+{Path_to_LJspeech_dataset}/LJ015-0032.wav|and on the other by backing up
+{Path_to_LJspeech_dataset}/LJ027-0132.wav|A dozen volumes would be necessary
+{Path_to_LJspeech_dataset}/LJ044-0161.wav|In his wife's words, quote,
+{Path_to_LJspeech_dataset}/LJ008-0294.wav|nearly indefinitely deferred.
+{Path_to_LJspeech_dataset}/LJ003-0297.wav|It admitted the paramount necessity
+{Path_to_LJspeech_dataset}/LJ015-0036.wav|The bank was already insolvent,
+{Path_to_LJspeech_dataset}/LJ018-0273.wav|Tarpey was caught through his wife,
+{Path_to_LJspeech_dataset}/LJ020-0008.wav|One tablespoonful of butter.
+{Path_to_LJspeech_dataset}/LJ030-0003.wav|Visits to Other Texas Cities
+{Path_to_LJspeech_dataset}/LJ047-0240.wav|They agree that Hosty told Revill
+{Path_to_LJspeech_dataset}/LJ016-0230.wav|His nature must have been kindly.
+{Path_to_LJspeech_dataset}/LJ025-0068.wav|"At the present day," writes Huxley,
+{Path_to_LJspeech_dataset}/LJ033-0057.wav|and insert it into the paper bag.
+{Path_to_LJspeech_dataset}/LJ040-0027.wav|He was never satisfied with anything.
+{Path_to_LJspeech_dataset}/LJ049-0080.wav|Assassination a Federal Crime
+{Path_to_LJspeech_dataset}/LJ008-0298.wav|Sometimes the report was delayed.
+{Path_to_LJspeech_dataset}/LJ016-0310.wav|Another distinguished witness feared
+{Path_to_LJspeech_dataset}/LJ031-0174.wav|After the President was pronounced dead,
+{Path_to_LJspeech_dataset}/LJ031-0203.wav|Mrs. Kennedy and the Attorney General,
+{Path_to_LJspeech_dataset}/LJ032-0107.wav|When seeking employment in New Orleans,
+{Path_to_LJspeech_dataset}/LJ046-0124.wav|or with undue persistence.
+{Path_to_LJspeech_dataset}/LJ029-0182.wav|may not endorse him in 'sixty-four.
+{Path_to_LJspeech_dataset}/LJ043-0046.wav|After about a month with his brother,
+{Path_to_LJspeech_dataset}/LJ044-0042.wav|In his letter to V. T. Lee,
+{Path_to_LJspeech_dataset}/LJ013-0255.wav|The victim was the first of these three.
+{Path_to_LJspeech_dataset}/LJ014-0137.wav|When the judge assumed the black cap
+{Path_to_LJspeech_dataset}/LJ016-0049.wav|He had here completed his ascent.
+{Path_to_LJspeech_dataset}/LJ020-0069.wav|One even teaspoonful of salt.
+{Path_to_LJspeech_dataset}/LJ033-0021.wav|after the birth of their second child.
+{Path_to_LJspeech_dataset}/LJ015-0135.wav|He began in a very small way.
+{Path_to_LJspeech_dataset}/LJ021-0201.wav|We have avoided on the other hand
+{Path_to_LJspeech_dataset}/LJ039-0095.wav|Zahm stated further, quote,
+{Path_to_LJspeech_dataset}/LJ030-0122.wav|to the right side of the President's car.
+{Path_to_LJspeech_dataset}/LJ033-0129.wav|Mrs. Randle saw the bag fleetingly
+{Path_to_LJspeech_dataset}/LJ002-0208.wav|into holes marked with numbers.
+{Path_to_LJspeech_dataset}/LJ012-0154.wav|He was ostensibly a publican,
+{Path_to_LJspeech_dataset}/LJ019-0247.wav|which existed in the various prisons,
+{Path_to_LJspeech_dataset}/LJ032-0248.wav|It appears from his wife's testimony
+{Path_to_LJspeech_dataset}/LJ028-0333.wav|he put them also to the sword.
+{Path_to_LJspeech_dataset}/LJ028-0475.wav|No traces of its moat have appeared.
+{Path_to_LJspeech_dataset}/LJ030-0083.wav|to a walking pace or stopped,
+{Path_to_LJspeech_dataset}/LJ038-0089.wav|Expert testimony before the Commission
+{Path_to_LJspeech_dataset}/LJ038-0287.wav|Additional corroborative evidence.
+{Path_to_LJspeech_dataset}/LJ047-0161.wav|Mrs. Paine told Hosty also
+{Path_to_LJspeech_dataset}/LJ003-0104.wav|Having been committed to Clerkenwell,
+{Path_to_LJspeech_dataset}/LJ030-0165.wav|which caused her to look to her right.
+{Path_to_LJspeech_dataset}/LJ032-0219.wav|They are photographs of the same scene.
+{Path_to_LJspeech_dataset}/LJ040-0231.wav|Lee Oswald never received that help.
+{Path_to_LJspeech_dataset}/LJ011-0186.wav|by the blacksmith in the usual way.
+{Path_to_LJspeech_dataset}/LJ018-0182.wav|and no more bodies were to be bought
+{Path_to_LJspeech_dataset}/LJ033-0105.wav|One employee, Jack Dougherty,
+{Path_to_LJspeech_dataset}/LJ049-0055.wav|All agents are so instructed.
+{Path_to_LJspeech_dataset}/LJ028-0175.wav|but they add little to our knowledge.
+{Path_to_LJspeech_dataset}/LJ031-0026.wav|Dr. Fouad A. Bashour.
+{Path_to_LJspeech_dataset}/LJ044-0142.wav|of each of his changes of mailing address.
+{Path_to_LJspeech_dataset}/LJ014-0005.wav|but too late to give substantial aid.
+{Path_to_LJspeech_dataset}/LJ019-0239.wav|and others were subsequently added.
+{Path_to_LJspeech_dataset}/LJ030-0093.wav|Vice-Presidential follow-up car.
+{Path_to_LJspeech_dataset}/LJ032-0247.wav|during the summer of nineteen sixty-three.
+{Path_to_LJspeech_dataset}/LJ040-0118.wav|and threatened to use it on Mrs. Pic.
+{Path_to_LJspeech_dataset}/LJ047-0157.wav|I asked her if she knew where he worked.
+{Path_to_LJspeech_dataset}/LJ034-0047.wav|were developed by chemical processes.
+{Path_to_LJspeech_dataset}/LJ034-0215.wav|which entered the back of the President's neck.
+{Path_to_LJspeech_dataset}/LJ037-0195.wav|The order was signed in ink by, quote,
+{Path_to_LJspeech_dataset}/LJ003-0287.wav|to undertake some kind of reform.
+{Path_to_LJspeech_dataset}/LJ009-0062.wav|buries his head under his body.
+{Path_to_LJspeech_dataset}/LJ014-0254.wav|This he did to an enormous extent,
+{Path_to_LJspeech_dataset}/LJ033-0160.wav|Materials used to make bag.
+{Path_to_LJspeech_dataset}/LJ042-0126.wav|He is a no-nonsense party regular.
+{Path_to_LJspeech_dataset}/LJ048-0107.wav|Love Field and the Trade Mart.
+{Path_to_LJspeech_dataset}/LJ006-0061.wav|and "the greatest contempt shown for the law."
+{Path_to_LJspeech_dataset}/LJ011-0217.wav|Mr. Justice Bayley, in summing up,
+{Path_to_LJspeech_dataset}/LJ006-0066.wav|In the middle yard it was still worse.
+{Path_to_LJspeech_dataset}/LJ019-0292.wav|Prisoners still slept two in a bed.
+{Path_to_LJspeech_dataset}/LJ033-0126.wav|that the width was approximately the same.
+{Path_to_LJspeech_dataset}/LJ040-0196.wav|into which he appeared to be retreating.
+{Path_to_LJspeech_dataset}/LJ048-0206.wav|As the motorcade approached Elm Street
+{Path_to_LJspeech_dataset}/LJ008-0131.wav|the other he kept between his hands.
+{Path_to_LJspeech_dataset}/LJ009-0296.wav|It was not always easy to hire a hangman.
+{Path_to_LJspeech_dataset}/LJ018-0159.wav|This was all the police wanted to know.
+{Path_to_LJspeech_dataset}/LJ028-0255.wav|In five twenty-nine Cyrus died.
+{Path_to_LJspeech_dataset}/LJ033-0055.wav|and he could disassemble it more rapidly.
+{Path_to_LJspeech_dataset}/LJ036-0116.wav|Lee Oswald was Number three;
+{Path_to_LJspeech_dataset}/LJ045-0167.wav|Question: What did you say to that?
+{Path_to_LJspeech_dataset}/LJ004-0008.wav|Mr. Neild, a second Howard,
+{Path_to_LJspeech_dataset}/LJ011-0171.wav|was the state of her father's affairs.
+{Path_to_LJspeech_dataset}/LJ023-0077.wav|by which any law is passed,
+{Path_to_LJspeech_dataset}/LJ032-0239.wav|on April ten, nineteen sixty-three.
+{Path_to_LJspeech_dataset}/LJ046-0037.wav|The nature of the protective assignment.
+{Path_to_LJspeech_dataset}/LJ006-0103.wav|The allowance of food was not illiberal,
+{Path_to_LJspeech_dataset}/LJ016-0363.wav|This feeling was the stronger because
+{Path_to_LJspeech_dataset}/LJ020-0010.wav|One heaping cup of sifted flour.
+{Path_to_LJspeech_dataset}/LJ029-0036.wav|Advance Preparations for the Dallas Trip
+{Path_to_LJspeech_dataset}/LJ030-0245.wav|I was pushed down by Agent Youngblood.
+{Path_to_LJspeech_dataset}/LJ031-0122.wav|treated the gunshot wound in the left thigh.
+{Path_to_LJspeech_dataset}/LJ034-0151.wav|of what he said on November twenty-two.
+{Path_to_LJspeech_dataset}/LJ043-0158.wav|Question: And then he burned the book?
+{Path_to_LJspeech_dataset}/LJ048-0013.wav|he indicated that he had learned his lesson,
+{Path_to_LJspeech_dataset}/LJ005-0261.wav|As a means of securing this uniformity,
+{Path_to_LJspeech_dataset}/LJ006-0169.wav|He really did not know what passed in his jail
+{Path_to_LJspeech_dataset}/LJ006-0176.wav|the punishments he inflicted were unequal,
+{Path_to_LJspeech_dataset}/LJ037-0172.wav|even though only four bullets were recovered.
+{Path_to_LJspeech_dataset}/LJ038-0148.wav|Actions During and After Shooting
+{Path_to_LJspeech_dataset}/LJ001-0104.wav|Italy is contentedly stagnant.
+{Path_to_LJspeech_dataset}/LJ019-0022.wav|On the other hand, it must be admitted
+{Path_to_LJspeech_dataset}/LJ020-0065.wav|Two cups of fresh milk slightly warmed.
+{Path_to_LJspeech_dataset}/LJ027-0039.wav|both adaptations for pumping blood;
+{Path_to_LJspeech_dataset}/LJ027-0144.wav|Now, it must be obvious
+{Path_to_LJspeech_dataset}/LJ032-0243.wav|Rifle Among Oswald's Possessions
+{Path_to_LJspeech_dataset}/LJ033-0110.wav|Frazier and Mrs. Randle testified
+{Path_to_LJspeech_dataset}/LJ021-0164.wav|a permanent army of unemployed.
+{Path_to_LJspeech_dataset}/LJ025-0053.wav|to the investigation of organic structure,
+{Path_to_LJspeech_dataset}/LJ028-0479.wav|Nebuchadnezzar, King of Babylon,
+{Path_to_LJspeech_dataset}/LJ035-0053.wav|The man turned and walked back toward Baker.
+{Path_to_LJspeech_dataset}/LJ038-0162.wav|Then he said, "Oh, I see," and that was all.
+{Path_to_LJspeech_dataset}/LJ040-0082.wav|in the summer of nineteen forty-eight.
+{Path_to_LJspeech_dataset}/LJ043-0104.wav|His supervisor admitted, however,
+{Path_to_LJspeech_dataset}/LJ047-0205.wav|to potential danger, quote,
+{Path_to_LJspeech_dataset}/LJ050-0232.wav|to assist in its protection functions.
+{Path_to_LJspeech_dataset}/LJ004-0040.wav|They felt that private enterprise might
+{Path_to_LJspeech_dataset}/LJ014-0009.wav|This sight was his own handiwork,
+{Path_to_LJspeech_dataset}/LJ023-0005.wav|I take this means of saying "thank you."
+{Path_to_LJspeech_dataset}/LJ031-0125.wav|Vice President Johnson at Parkland
+{Path_to_LJspeech_dataset}/LJ038-0304.wav|on April ten, nineteen sixty-three.
+{Path_to_LJspeech_dataset}/LJ013-0211.wav|"What are you doing here?" asked his lordship.
+{Path_to_LJspeech_dataset}/LJ028-0384.wav|So Babylon was buried and forgotten.
+{Path_to_LJspeech_dataset}/LJ031-0177.wav|Before the body could be taken from the hospital,
+{Path_to_LJspeech_dataset}/LJ038-0058.wav|Officer Ray Hawkins said
+{Path_to_LJspeech_dataset}/LJ003-0067.wav|in the then existing state of the law,
+{Path_to_LJspeech_dataset}/LJ005-0119.wav|No attempt was made to maintain discipline.
+{Path_to_LJspeech_dataset}/LJ006-0278.wav|A female prisoner kept the registers.
+{Path_to_LJspeech_dataset}/LJ009-0096.wav|The poor sheep-stealer is in a frenzy.
+{Path_to_LJspeech_dataset}/LJ030-0202.wav|Reaction by Secret Service Agents
+{Path_to_LJspeech_dataset}/LJ034-0109.wav|one-sixty to one-seventy pounds.
+{Path_to_LJspeech_dataset}/LJ014-0053.wav|Soon afterwards, in Gloucestershire,
+{Path_to_LJspeech_dataset}/LJ016-0062.wav|She suffered him to pass downstairs.
+{Path_to_LJspeech_dataset}/LJ022-0147.wav|we must continue to protect children,
+{Path_to_LJspeech_dataset}/LJ028-0364.wav|The city then fell to Seleucus,
+{Path_to_LJspeech_dataset}/LJ048-0230.wav|and by a Secret Service investigation.
+{Path_to_LJspeech_dataset}/LJ050-0157.wav|On the basis of such a feasibility study,
+{Path_to_LJspeech_dataset}/LJ003-0050.wav|(one) those awaiting trial;
+{Path_to_LJspeech_dataset}/LJ008-0291.wav|The time thus spent varied considerably,
+{Path_to_LJspeech_dataset}/LJ009-0049.wav|For this offense the punishment is death.
+{Path_to_LJspeech_dataset}/LJ033-0068.wav|Mrs. Paine testified, quote,
+{Path_to_LJspeech_dataset}/LJ040-0007.wav|the existence of some personal grievance,
+{Path_to_LJspeech_dataset}/LJ003-0228.wav|and the general insufficiency was such
+{Path_to_LJspeech_dataset}/LJ011-0266.wav|The money went after her to her children.
+{Path_to_LJspeech_dataset}/LJ008-0073.wav|One case is preserved by Catnach,
+{Path_to_LJspeech_dataset}/LJ009-0044.wav|His features have no felonious cast;
+{Path_to_LJspeech_dataset}/LJ015-0052.wav|to the value of twenty thousand pounds.
+{Path_to_LJspeech_dataset}/LJ016-0048.wav|a distance of eight or nine feet.
+{Path_to_LJspeech_dataset}/LJ028-0290.wav|he came in this plight before Darius.
+{Path_to_LJspeech_dataset}/LJ037-0164.wav|All four bullets were fired from a weapon
+{Path_to_LJspeech_dataset}/LJ048-0006.wav|or to the Vice President, end quote.
+{Path_to_LJspeech_dataset}/LJ001-0174.wav|should be a part of the whole scheme of the book.
+{Path_to_LJspeech_dataset}/LJ024-0143.wav|You and I will do our part.
+{Path_to_LJspeech_dataset}/LJ033-0112.wav|measured thirty-four point eight inches.
+{Path_to_LJspeech_dataset}/LJ049-0051.wav|Planning for motorcade contingencies.
+{Path_to_LJspeech_dataset}/LJ004-0126.wav|The want of room was still a crying evil.
+{Path_to_LJspeech_dataset}/LJ016-0328.wav|Nevertheless, in the very next session
+{Path_to_LJspeech_dataset}/LJ026-0011.wav|Because of these uncertain forms of life,
+{Path_to_LJspeech_dataset}/LJ037-0006.wav|A sixth did so the next day.
+{Path_to_LJspeech_dataset}/LJ038-0130.wav|as one entitled to receive mail.
+{Path_to_LJspeech_dataset}/LJ045-0105.wav|She testified that she told him, quote,
+{Path_to_LJspeech_dataset}/LJ002-0198.wav|The office of marshal had been hereditary,
