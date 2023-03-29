@@ -12,7 +12,7 @@ PyTorch implementation of our [paper](https://arxiv.org/abs/2303.15669) "Unsuper
 > The code and audio samples are available at: https://github.com/cnaigithub/SpeechDewarping
 
 <!-- <strong> The repository is currently under construction.</strong> -->
-The code is based the [Tacotron 2](https://github.com/NVIDIA/tacotron2) repository.
+The code is based on the [Tacotron 2](https://github.com/NVIDIA/tacotron2) repository.
 
 ## Installation
 We tested our code in Ubuntu 20.04, CUDA 11.1 and Python 3.7.11 enviroment with A6000 GPUs.
