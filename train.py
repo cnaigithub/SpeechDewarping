@@ -98,7 +98,7 @@ def warm_start_model(checkpoint_path, model, ignore_layers):
         dummy_dict = model.state_dict()
         dummy_dict.update(model_dict)
         model_dict = dummy_dict
-    model.load_state_dict(model_dict)
+    model.load_state_dict(model_dict, strict=False)
     return model
 
 def load_checkpoint(checkpoint_path, model, optimizer, scheduler):
