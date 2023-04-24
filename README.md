@@ -51,6 +51,11 @@ After fine-tuning, the checkpoint can be used for TTS inference.
 python inference.py -c {Path to fine-tuned checkpoint} -o {output folder to save audio results} -t {filelist containing text to inference}
 ```
 
+## Pre-trained Checkpoints
+We provide the following checkpoints:\
+1. Pre-trained with Speech De-warping [(link)](https://drive.google.com/file/d/1lgSaJFKjHB7G9y1Rk1_3I-jW3c3PqS5H/view?usp=sharing)\
+2. Fine tuned from the above checkpoint, using SegAug with 0.5 shard of KSS data [(link)](https://drive.google.com/file/d/1t_np4ZpGmglrHWAuUS3lZc-zlbY8E_Pi/view?usp=sharing)
+
 ## Citation
 ```bibtex
 @inproceedings{park2023icassp,
